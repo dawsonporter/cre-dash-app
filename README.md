@@ -1,6 +1,6 @@
 # Commercial Real Estate Dashboard
 
-This project is a comprehensive dashboard for visualizing and analyzing key metrics in the commercial real estate sector. Built using Dash, Plotly, and Pandas, this interactive web application allows users to explore data for different property types including Multifamily, Industrial, and Office properties. The dashboard features interactive dropdown menus for selecting property types and metrics, dynamic charts, and correlation indicators, providing valuable insights into trends and relationships within the commercial real estate market.
+This project is a comprehensive dashboard for visualizing and analyzing key metrics in the commercial real estate sector. Built using Dash, Plotly, and Pandas, this interactive web application allows users to explore data for different property types, including Multifamily, Industrial, and Office properties. The dashboard features interactive dropdown menus for selecting property types and metrics, dynamic charts, and correlation indicators, providing valuable insights into trends and relationships within the commercial real estate market.
 
 ## Key Features
 
@@ -20,18 +20,6 @@ This project is a comprehensive dashboard for visualizing and analyzing key metr
 
 The data used in this dashboard is sourced from MSCI Real Capital Analytics, CoStar Inc., and Wells Fargo Economics, providing reliable and up-to-date information on the commercial real estate market.
 
-## Getting Started
+## Live Demo
 
-To get a local copy up and running, follow these steps:
-
-### Prerequisites
-
-- Python 3.6 or higher
-- pip (Python package installer)
-
-### Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/dawsonporter/cre-dash-app.git
-   cd cre-dash-app
+Check out the live demo of the dashboard here: [Commercial Real Estate Dashboard](https://cre-dash-app-377874a89be5.herokuapp.com/)
