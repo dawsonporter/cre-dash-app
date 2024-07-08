@@ -181,7 +181,7 @@ def update_chart(property_type, primary_metric, secondary_metric):
     ))
     
     fig.update_layout(
-        title="Commercial Real Estate Metrics Comparison",
+        title=f"CRE Metrics Comparison - {property_type}",
         xaxis_title=None,
         yaxis_title=primary_metric,
         yaxis2=dict(title=secondary_metric, overlaying='y', side='right'),
